@@ -1,6 +1,6 @@
 # W3C Userstyle
 
-Clumsy overrides for W3C's document styles.
+Clumsy overrides for W3C's document styles. Install at https://userstyles.org/styles/136129/w3c-userstyle.
 
 ---
 
